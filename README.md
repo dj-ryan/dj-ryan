@@ -7,9 +7,9 @@
       <h2>
         Links:
       </h2>
-    ✉️ <a href="mailto:davidryn6@gmail.com">daviryn6@gmail.com</a> </br>
-    🌐 <a href="http://www.davidryan.info">davidryan.info</a> </br>
-    🔗 <a href="https://www.linkedin.com/in/david-ryan-engineer/">linkedin.com</a>
+    📧 : <a href="mailto:davidryn6@gmail.com">daviryn6@gmail.com</a> </br>
+    🌐 : <a href="http://www.davidryan.info">davidryan.info</a> </br>
+    🔗 : <a href="https://www.linkedin.com/in/david-ryan-engineer/">linkedin.com</a>
     </div>
    </td>
   <td width="61%">

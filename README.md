@@ -1,6 +1,8 @@
 # Hello!
 
-## Email: davidryn6@gmail.com | Website: [www.davidryan.info](http://www.davidryan.info) | Linkedin: [www.linkedin.com](https://www.linkedin.com/in/david-ryan-engineer/)
+- Email: davidryn6@gmail.com 
+- Website: [www.davidryan.info](http://www.davidryan.info) 
+- Linkedin: [www.linkedin.com](https://www.linkedin.com/in/david-ryan-engineer/)
 
 
 <div align="center">

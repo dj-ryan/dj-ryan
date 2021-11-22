@@ -1,8 +1,10 @@
-# Hello!
+<h1 align="center">
+Hello!
+</h1>
 
-- Email: davidryn6@gmail.com 
-- Website: [www.davidryan.info](http://www.davidryan.info) 
-- Linkedin: [www.linkedin.com](https://www.linkedin.com/in/david-ryan-engineer/)
+- ✉️ davidryn6@gmail.com 
+- 🌐 [www.davidryan.info](http://www.davidryan.info) 
+- 🔗 [www.linkedin.com](https://www.linkedin.com/in/david-ryan-engineer/)
 
 
 <div align="center">

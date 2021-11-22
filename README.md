@@ -2,10 +2,10 @@
 
 <table width="100%">
   <tr>
-  <td width="29%">
+  <td width="29%"> <!-- golden ratio -->
     <div align="center">
       <h2>
-        Contact:
+        Links:
       </h2>
     ✉️ <a href="mailto:davidryn6@gmail.com">daviryn6@gmail.com</a> </br>
     🌐 <a href="http://www.davidryan.info">davidryan.info</a> </br>
@@ -17,15 +17,19 @@
       <h1>
         Hello!
       </h1>
-I am interested in all things computer. I love everything from the low-level stuff like assembly and memory management to the high-level stuff like JavaScript and UI/X. My favorite sector would be embedded systems where the hardware and software of the system meet.
+I am interested in all things computer. I love everything from the low-level stuff like assembly and memory management to the high-level stuff like JavaScript and UI/X. My favorite sector would be embedded systems and robotics where the hardware and software of the system meet.
 
 Take a look at some of my projects, use them how you wish, and contact me with any questions!
   
-</div align="center">
+</div>
   </td>
 </table>
 
-
+## Facts:
+- ⚡ Current project:
+  - Working on my finsihing website 🚧
+- 📍 Location:
+  - The great Stat of Nebraska
 
 
 
@@ -34,9 +38,9 @@ Take a look at some of my projects, use them how you wish, and contact me with a
 <!--  <img align="left" alt="JavaScript" width="26px" src="" /> -->
  
   
-<h3 align="center">
-  Languages:
-</h3>
+
+##  Languages:
+
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -52,9 +56,8 @@ Take a look at some of my projects, use them how you wish, and contact me with a
 
 </br>
 
-<h3 align="center">
-  Technologies:
-</h3 align="center">
+
+##  Technologies:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 

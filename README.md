@@ -1,18 +1,35 @@
-<h1 align="center">
-Hello!
-</h1>
-
-- ✉️ davidryn6@gmail.com 
-- 🌐 [www.davidryan.info](http://www.davidryan.info) 
-- 🔗 [www.linkedin.com](https://www.linkedin.com/in/david-ryan-engineer/)
 
 
-<div align="center">
+<table width="100%">
+  <tr>
+  <td width="29%">
+    <div align="center">
+      <h2>
+        Contact:
+      </h2>
+    ✉️ <a href="mailto:davidryn6@gmail.com">daviryn6@gmail.com</a> </br>
+    🌐 <a href="http://www.davidryan.info">davidryan.info</a> </br>
+    🔗 <a href="https://www.linkedin.com/in/david-ryan-engineer/">linkedin.com</a>
+    </div>
+   </td>
+  <td width="61%">
+    <div align="center">
+      <h1>
+        Hello!
+      </h1>
 I am interested in all things computer. I love everything from the low-level stuff like assembly and memory management to the high-level stuff like JavaScript and UI/X. My favorite sector would be embedded systems where the hardware and software of the system meet.
 
 Take a look at some of my projects, use them how you wish, and contact me with any questions!
   
 </div align="center">
+  </td>
+</table>
+
+
+
+
+
+
   
 <!--  <img align="left" alt="JavaScript" width="26px" src="" /> -->
  

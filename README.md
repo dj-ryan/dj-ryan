@@ -29,7 +29,7 @@ Take a look at some of my projects, use them how you wish, and contact me with a
 - ⚡ Current project:
   - Working on finsihing my website 🚧
 - 📍 Location:
-  - The great Stat of Nebraska
+  - The great State of Nebraska
 
 
 

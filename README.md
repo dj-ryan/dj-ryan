@@ -27,7 +27,7 @@ Take a look at some of my projects, use them how you wish, and contact me with a
 
 ## Facts:
 - ⚡ Current project:
-  - Working on finsihing my website 🚧
+  - Working on finishing my website 🚧
 - 📍 Location:
   - The great State of Nebraska
 

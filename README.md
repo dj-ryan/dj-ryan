@@ -8,7 +8,7 @@ Hi, I'm David, a computer engineer with a deep passion for all things computer. 
 
 Take a look at some of my projects, use them how you wish, and contact me with any questions! 
 
-- ⚡ Current project: [casia - **C**oordination **A**mong **S**elf-**I**nterested **A**gents](https://github.com/dj-ryan/casia) 🚧
+- ⚡ Current project: [sat-sight](https://github.com/dj-ryan/sat-sight) 🚧
 - 📍 Location: The great State of Nebraska
 - 🔗 Website: [davidryan.info](davidryan.info)
 

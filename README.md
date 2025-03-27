@@ -8,7 +8,7 @@ Hi, I'm David, a computer engineer with a deep passion for all things computer. 
 
 Take a look at some of my projects, use them how you wish, and contact me with any questions! 
 
-- ⚡ Current project: [sat-sight](https://github.com/dj-ryan/sat-sight) 🚧
+- ⚡ Current project: [numvert](https://github.com/dj-ryan/numvert) 🚧
 - 📍 Location: Los Angeles, CA
 - 🔗 Website: [davidryan.info](davidryan.info)
 
